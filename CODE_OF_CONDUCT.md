@@ -58,7 +58,7 @@ representative at an online or offline event.
 ## **Enforcement**
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be  
-reported to the community leaders responsible for enforcement at conduct@samizdatai.org. All complaints will be reviewed and investigated promptly and fairly, and will receive an initial acknowledgment within 48 business hours.  
+reported to the community leaders responsible for enforcement at tom@samizdatai.org. All complaints will be reviewed and investigated promptly and fairly, and will receive an initial acknowledgment within 48 business hours.  
 All community leaders are obligated to respect the privacy and security of the  
 reporter of any incident.
 
